@@ -7,6 +7,7 @@ public class Test {
 //        String[] strArr = {"hello", "world"};
 //        mgm.printArray(strArr); // 输出hello 和 world
 
+        //是大二
 //        int i = aTest();
 //        System.out.println(i);
 
