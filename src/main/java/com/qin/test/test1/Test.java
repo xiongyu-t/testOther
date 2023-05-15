@@ -10,6 +10,7 @@ public class Test {
 //        int i = aTest();
 //        System.out.println(i);
 
+
         //获取一个类的class对象
         Class<?> aClass = test.getClass();
 
